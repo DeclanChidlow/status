@@ -2,6 +2,12 @@ owner: DeclanChidlow
 repo: status
 
 sites:
+  - name: vale.rocks
+    url: https://vale.rocks
+  - name: Adduce
+    url: https://adduce.vale.rocks
+  - name: Unvite
+    url: https://unvite.vale.rocks
   - name: Jellyfin
     url: https://jellyfin.vale.rocks
   - name: Minetest
