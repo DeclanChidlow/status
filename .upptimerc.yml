@@ -13,7 +13,7 @@ status-website:
   name: Status
   introTitle: "Vale.Rocks Service Status"
   introMessage: Read about the various services and their functions [here](https://vale.rocks/services).
-   navbar:
+  navbar:
     - title: Home
       href: https://vale.rocks
     - title: Services
