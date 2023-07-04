@@ -58,10 +58,10 @@
     "url": "https://jellyfin.vale.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.vale.rocks.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1014,
@@ -69,14 +69,16 @@
     "timeWeek": 979,
     "timeMonth": 1014,
     "timeYear": 1014,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-04": 1
+    }
   },
   {
     "name": "Minetest",
     "url": "https://minetest.vale.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/minetest.vale.rocks.ico",
     "slug": "minetest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 823,
     "timeMonth": 838,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-04": 0
+    }
   }
 ]
