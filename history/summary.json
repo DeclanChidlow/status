@@ -58,19 +58,19 @@
     "url": "https://jellyfin.vale.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.vale.rocks.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 1047,
-    "timeWeek": 979,
-    "timeMonth": 1014,
-    "timeYear": 1014,
+    "status": "up",
+    "uptime": "95.39%",
+    "uptimeDay": "57.28%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "95.39%",
+    "uptimeYear": "95.39%",
+    "time": 1007,
+    "timeDay": 982,
+    "timeWeek": 971,
+    "timeMonth": 1007,
+    "timeYear": 1007,
     "dailyMinutesDown": {
-      "2023-07-04": 1
+      "2023-07-04": 615
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://minetest.vale.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/minetest.vale.rocks.ico",
     "slug": "minetest",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 778,
-    "timeWeek": 823,
-    "timeMonth": 838,
-    "timeYear": 838,
+    "status": "up",
+    "uptime": "95.39%",
+    "uptimeDay": "57.31%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "95.39%",
+    "uptimeYear": "95.39%",
+    "time": 822,
+    "timeDay": 705,
+    "timeWeek": 799,
+    "timeMonth": 822,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2023-07-04": 0
+      "2023-07-04": 615
     }
   }
 ]
