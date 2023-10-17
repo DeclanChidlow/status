@@ -8,6 +8,8 @@ sites:
     url: https://adduce.vale.rocks
   - name: Unvite
     url: https://unvite.vale.rocks
+  - name: Fedi
+    url: https://fedi.vale.rocks
   - name: Jellyfin
     url: https://jellyfin.vale.rocks
   - name: Minetest
