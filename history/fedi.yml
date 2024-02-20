@@ -1,7 +1,7 @@
 url: https://fedi.vale.rocks
-status: up
-code: 200
-responseTime: 905
-lastUpdated: 2024-02-20T23:09:31.860Z
+status: down
+code: 500
+responseTime: 13499
+lastUpdated: 2024-02-20T23:44:45.163Z
 startTime: 2023-10-17T01:42:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
