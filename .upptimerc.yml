@@ -2,33 +2,26 @@ owner: DeclanChidlow
 repo: status
 
 sites:
-  - name: vale.rocks
+  - name: Vale.Rocks
     url: https://vale.rocks
-  - name: Adduce
-    url: https://adduce.vale.rocks
-  - name: Unvite
-    url: https://unvite.vale.rocks
   - name: Fedi
     url: https://fedi.vale.rocks
   - name: Jellyfin
     url: https://jellyfin.vale.rocks
   - name: Minetest
     url: https://minetest.vale.rocks
+  - name: AutoMod
+    url: https://automod.vale.rocks
 
 status-website:
   cname: status.vale.rocks
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  themeUrl: https://vale.rocks/style/status.css
-  name: Status
-  introTitle: "Vale.Rocks Service Status"
-  introMessage: Read about the various services and their functions [here](https://vale.rocks/services).
+  themeUrl: https://status.vale.rocks/theme.css
+  name: Status | Vale.Rocks
+  introTitle: "Service Status"
+  introMessage: The status of all the services hosted under the Vale.Rocks umbrella. Read more at [vale.rocks/services].
   navbar:
     - title: Home
       href: https://vale.rocks
     - title: Services
       href: https://vale.rocks/services
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
