@@ -11,7 +11,7 @@ sites:
   - name: Minetest
     url: https://minetest.vale.rocks
   - name: AutoMod
-    url: https://automod.vale.rocks
+    url: https://automod.vale.rocks/api
 
 status-website:
   cname: status.vale.rocks
@@ -19,7 +19,7 @@ status-website:
   themeUrl: https://status.vale.rocks/theme.css
   name: Status | Vale.Rocks
   introTitle: "Service Status"
-  introMessage: The status of all the services hosted under the Vale.Rocks umbrella. Read more at [vale.rocks/services].
+  introMessage: The current and historical statuses of Vale.Rocks services. Learn more at [https://vale.rocks/services].
   navbar:
     - title: Home
       href: https://vale.rocks
