@@ -26,3 +26,12 @@
 	--graph-opacity: 1;
 	--graph-filter: none;
 }
+
+article {
+	border: none;
+	border-radius: 0;
+}
+
+.tag.closed .tag.up {
+	background: transparent;
+}
