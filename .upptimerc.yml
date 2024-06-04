@@ -16,7 +16,7 @@ sites:
 status-website:
   cname: status.vale.rocks
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  themeUrl: https://raw.githubusercontent.com/DeclanChidlow/status/master/assets/theme.css
+  themeUrl: https://status.vale.rocks/theme.css
   name: Status | Vale.Rocks
   introTitle: "Service Status"
   introMessage: The status of all the services hosted under the Vale.Rocks umbrella. Read more at [vale.rocks/services].
