@@ -28,10 +28,10 @@
 }
 
 article {
-	border: none;
-	border-radius: 0;
+	border: none !important;
+	border-radius: 0 !important;
 }
 
 .tag.closed .tag.up {
-	background: transparent;
+	background: transparent !important;
 }
