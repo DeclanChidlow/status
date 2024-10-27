@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 216,
-    "timeDay": 77,
-    "timeWeek": 249,
-    "timeMonth": 241,
+    "time": 215,
+    "timeDay": 51,
+    "timeWeek": 231,
+    "timeMonth": 228,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2024-06-19": 28
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedi.vale.rocks.ico",
     "slug": "fedi",
     "status": "up",
-    "uptime": "90.27%",
-    "uptimeDay": "97.81%",
+    "uptime": "90.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "90.51%",
-    "time": 1692,
-    "timeDay": 770,
-    "timeWeek": 817,
-    "timeMonth": 851,
-    "timeYear": 1603,
+    "uptimeYear": "90.79%",
+    "time": 1689,
+    "timeDay": 768,
+    "timeWeek": 797,
+    "timeMonth": 849,
+    "timeYear": 1601,
     "dailyMinutesDown": {
       "2024-10-25": 31,
       "2024-10-07": 1024,
@@ -96,8 +96,7 @@
       "2023-12-12": 367,
       "2023-12-02": 71,
       "2023-11-02": 172,
-      "2023-10-29": 699,
-      "2023-10-28": 657
+      "2023-10-29": 699
     }
   },
   {
@@ -106,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.vale.rocks.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "91.12%",
-    "uptimeDay": "97.84%",
+    "uptime": "91.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "89.30%",
+    "uptimeYear": "89.57%",
     "time": 1312,
-    "timeDay": 1280,
-    "timeWeek": 1143,
-    "timeMonth": 1110,
+    "timeDay": 1029,
+    "timeWeek": 1148,
+    "timeMonth": 1104,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2024-10-25": 31,
@@ -178,8 +177,7 @@
       "2023-12-12": 158,
       "2023-12-02": 71,
       "2023-11-02": 143,
-      "2023-10-29": 45,
-      "2023-10-28": 656
+      "2023-10-29": 45
     }
   },
   {
@@ -188,7 +186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/minetest.vale.rocks.ico",
     "slug": "minetest",
     "status": "down",
-    "uptime": "75.35%",
+    "uptime": "75.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -199,7 +197,8 @@
     "timeMonth": 0,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2024-10-26": 44,
+      "2024-10-27": 51,
+      "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
@@ -334,8 +333,7 @@
       "2023-12-12": 143,
       "2023-12-02": 71,
       "2023-11-02": 126,
-      "2023-10-29": 45,
-      "2023-10-28": 656
+      "2023-10-29": 45
     }
   },
   {
@@ -344,18 +342,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/automod.vale.rocks.ico",
     "slug": "auto-mod",
     "status": "down",
-    "uptime": "44.31%",
+    "uptime": "44.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.31%",
+    "uptimeYear": "44.01%",
     "time": 446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-10-26": 44,
+      "2024-10-27": 51,
+      "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
