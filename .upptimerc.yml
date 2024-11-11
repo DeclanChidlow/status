@@ -6,12 +6,14 @@ sites:
     url: https://vale.rocks
   - name: Fedi
     url: https://fedi.vale.rocks
+  - name: AutoMod Website
+    url: https://automod.vale.rocks
+  - name: AutoMod API
+    url: https://automod.vale.rocks/api
+  - name: Search
+    url: https://search.vale.rocks
   - name: Jellyfin
     url: https://jellyfin.vale.rocks
-  - name: Minetest
-    url: https://minetest.vale.rocks
-  - name: AutoMod
-    url: https://automod.vale.rocks/api
 
 status-website:
   cname: status.vale.rocks
