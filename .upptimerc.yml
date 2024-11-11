@@ -8,8 +8,8 @@ sites:
     url: https://fedi.vale.rocks
   - name: AutoMod Website
     url: https://automod.vale.rocks
-  - name: AutoMod API
-    url: https://automod.vale.rocks/api
+  - name: AutoMod Bot
+    url: https://automod.vale.rocks/dashboard
   - name: Search
     url: https://search.vale.rocks
   - name: Jellyfin
