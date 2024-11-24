@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   themeUrl: https://status.vale.rocks/theme.css
   name: Status | Vale.Rocks
-  introTitle: "Vale.Rocks Service Status"
+  introTitle: "Vale's Service Status"
   introMessage: The current and historical statuses of Vale.Rocks services. Learn more at [https://vale.rocks/services].
   navbar:
     - title: Home
