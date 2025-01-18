@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 56,
-    "timeWeek": 187,
-    "timeMonth": 221,
+    "timeDay": 155,
+    "timeWeek": 161,
+    "timeMonth": 218,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2024-11-05": 33,
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedi.vale.rocks.ico",
     "slug": "fedi",
     "status": "up",
-    "uptime": "92.00%",
+    "uptime": "92.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.25%",
-    "time": 1521,
-    "timeDay": 882,
-    "timeWeek": 902,
-    "timeMonth": 904,
-    "timeYear": 1546,
+    "time": 1520,
+    "timeDay": 770,
+    "timeWeek": 867,
+    "timeMonth": 895,
+    "timeYear": 1545,
     "dailyMinutesDown": {
       "2024-11-05": 269,
       "2024-10-25": 31,
@@ -91,8 +91,7 @@
       "2024-01-27": 1326,
       "2024-01-22": 463,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1154
+      "2024-01-20": 1440
     }
   },
   {
@@ -112,7 +111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 44,
+      "2025-01-18": 43,
+      "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -199,7 +199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 44,
+      "2025-01-18": 43,
+      "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -280,11 +281,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 55,
-    "timeWeek": 95,
-    "timeMonth": 137,
-    "timeYear": 138,
+    "time": 140,
+    "timeDay": 233,
+    "timeWeek": 117,
+    "timeMonth": 136,
+    "timeYear": 140,
     "dailyMinutesDown": {}
   },
   {
@@ -293,15 +294,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.vale.rocks.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "92.38%",
+    "uptime": "92.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.86%",
     "time": 1299,
-    "timeDay": 1117,
-    "timeWeek": 1181,
-    "timeMonth": 1140,
+    "timeDay": 875,
+    "timeWeek": 1142,
+    "timeMonth": 1126,
     "timeYear": 1205,
     "dailyMinutesDown": {
       "2024-11-05": 269,
@@ -360,8 +361,7 @@
       "2024-01-27": 1326,
       "2024-01-22": 463,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1153
+      "2024-01-20": 1440
     }
   }
 ]
