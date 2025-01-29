@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 342,
-    "timeWeek": 218,
-    "timeMonth": 203,
-    "timeYear": 242,
+    "timeDay": 83,
+    "timeWeek": 223,
+    "timeMonth": 190,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2024-11-05": 33,
       "2024-06-19": 28
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fedi.vale.rocks.ico",
     "slug": "fedi",
     "status": "up",
-    "uptime": "92.17%",
+    "uptime": "92.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "92.35%",
-    "time": 1465,
-    "timeDay": 880,
-    "timeWeek": 966,
+    "uptimeYear": "92.63%",
+    "time": 1466,
+    "timeDay": 1043,
+    "timeWeek": 974,
     "timeMonth": 905,
-    "timeYear": 1543,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2025-01-22": 84,
       "2024-11-05": 269,
@@ -85,8 +85,7 @@
       "2024-02-12": 377,
       "2024-02-02": 522,
       "2024-02-01": 1440,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440
+      "2024-01-31": 1440
     }
   },
   {
@@ -106,7 +105,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-28": 45,
+      "2025-01-29": 45,
+      "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -204,7 +204,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-28": 45,
+      "2025-01-29": 45,
+      "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -296,11 +297,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 400,
-    "timeWeek": 182,
-    "timeMonth": 152,
-    "timeYear": 143,
+    "time": 142,
+    "timeDay": 52,
+    "timeWeek": 177,
+    "timeMonth": 151,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -309,15 +310,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.vale.rocks.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "92.51%",
+    "uptime": "92.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "90.96%",
-    "time": 1302,
-    "timeDay": 1166,
-    "timeWeek": 1139,
-    "timeMonth": 1134,
+    "uptimeYear": "91.23%",
+    "time": 1303,
+    "timeDay": 1117,
+    "timeWeek": 1137,
+    "timeMonth": 1132,
     "timeYear": 1206,
     "dailyMinutesDown": {
       "2025-01-22": 82,
@@ -370,8 +371,7 @@
       "2024-02-12": 542,
       "2024-02-02": 522,
       "2024-02-01": 1440,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440
+      "2024-01-31": 1440
     }
   }
 ]
