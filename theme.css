@@ -1,6 +1,13 @@
-@import url(https://vale.rocks/styles/variables/colours.css);
-
 :root {
+	color-scheme: light dark;
+	
+	--black: oklch(18% 0.003 17.5);
+	--bright_white: oklch(94.75% 0.04 73);
+	--dark_grey: oklch(24% 0.006 17.6);
+	--red: oklch(62.7% 0.222 27.8);
+	--green: oklch(65.2% 0.141 142.1);
+	--yellow: oklch(80.8% 0.165 73.5);
+	
 	--body-background-color: var(--black);
 	--body-text-color: var(--bright_white);
 	--card-background-color: var(--dark_grey);
