@@ -57,8 +57,36 @@ body {
 	transition: 0.25s;
 }
 
-nav a {
-	font-weight: bold;
+nav {
+	a {
+		padding: 2.5rem 0 !important;
+		text-transform: uppercase;
+	}
+
+	ul {
+		gap: 2rem;
+
+		a {
+			font-weight: normal !important;
+		}
+	}
+}
+
+.logo img {
+	display: none;
+}
+
+main,
+nav {
+	padding: 0 3rem !important;
+
+	@media (max-width: 45rem) {
+		padding: 0 0.8rem !important;
+	}
+}
+
+.container {
+	padding: 0;
 }
 
 article {
