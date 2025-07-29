@@ -10,21 +10,19 @@ sites:
     url: https://automod.vale.rocks
   - name: AutoMod Bot
     url: https://automod.vale.rocks/dashboard
-  - name: Search
-    url: https://search.vale.rocks
   - name: Jellyfin
     url: https://jellyfin.vale.rocks
 
 status-website:
   cname: status.vale.rocks
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://vale.rocks/assets/favicon.svg
   themeUrl: https://status.vale.rocks/theme.css
   name: Status | Vale.Rocks
   introTitle: "Vale's Service Status"
-  introMessage: The current and historical statuses of Vale.Rocks services. Learn more at [https://vale.rocks/services].
-  customHeadHtml: "<meta name='color-scheme' content='light dark'><meta name='theme-color' content='oklch(94.75% 0.04 73)' media='(prefers-color-scheme: light)'><meta name='theme-color' content='oklch(18% 0.003 17.5)' media='(prefers-color-scheme: dark)'><link rel='preload' href='https://vale.rocks/assets/typefaces/Lexend/Lexend-VariableFont_wght.woff2' as='font' type='font/woff2' crossorigin>"
+  introMessage: The current and historical statuses of Vale.Rocks services.
+  customHeadHtml: "<meta name='color-scheme' content='light dark'><meta name='theme-color' content='oklch(94.75% 0.04 73)' media='(prefers-color-scheme: light)'><meta name='theme-color' content='oklch(18% 0.003 17.5)' media='(prefers-color-scheme: dark)'><link rel='preload' href='https://vale.rocks/assets/typefaces/WorkSans.woff2' as='font' type='font/woff2' crossorigin>"
   navbar:
-    - title: Home
+    - title: Vale.Rocks
       href: https://vale.rocks
-    - title: Services
-      href: https://vale.rocks/services
+  skipDescriptionUpdate: true
+  skipTopicsUpdate: true
