@@ -48,12 +48,16 @@
 }
 
 @font-face {
-	font-family: "Lexend";
-	src: url("https://vale.rocks/assets/typefaces/Lexend/Lexend-VariableFont_wght.woff2");
+	font-family: "Work Sans";
+	src: url("https://vale.rocks/assets/typefaces/WorkSans.woff2") format("woff2");
+	font-weight: 400 800;
+	font-display: fallback;
 }
 
 body {
-	font-family: "Lexend", sans-serif;
+	font-family: "Work Sans", sans-serif;
+	font-variant-numeric: oldstyle-nums proportional-nums;
+	font-weight: 430;
 	transition: 0.25s;
 }
 
