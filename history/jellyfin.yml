@@ -1,7 +1,7 @@
 url: https://jellyfin.vale.rocks
-status: down
-code: 522
-responseTime: 23755
-lastUpdated: 2025-09-03T19:38:30.409Z
+status: up
+code: 200
+responseTime: 1239
+lastUpdated: 2025-09-03T20:00:50.754Z
 startTime: 2023-06-25T05:54:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
