@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 505,
-    "timeWeek": 280,
-    "timeMonth": 281,
-    "timeYear": 261,
+    "timeDay": 287,
+    "timeWeek": 272,
+    "timeMonth": 278,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2025-11-12": 26,
       "2025-09-30": 21
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1434,
-    "timeDay": 1058,
-    "timeWeek": 846,
-    "timeMonth": 994,
-    "timeYear": 1572,
+    "time": 1433,
+    "timeDay": 699,
+    "timeWeek": 863,
+    "timeMonth": 987,
+    "timeYear": 1571,
     "dailyMinutesDown": {
       "2025-09-09": 18,
       "2025-09-08": 70,
@@ -56,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/automod.vale.rocks.ico",
     "slug": "auto-mod-website",
     "status": "up",
-    "uptime": "76.44%",
+    "uptime": "76.46%",
     "uptimeDay": "98.20%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "76.74%",
+    "uptimeYear": "76.83%",
     "time": 277,
-    "timeDay": 192,
-    "timeWeek": 250,
-    "timeMonth": 228,
+    "timeDay": 260,
+    "timeWeek": 242,
+    "timeMonth": 230,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2025-11-12": 26,
@@ -151,8 +151,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -161,14 +160,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/automod.vale.rocks.ico",
     "slug": "auto-mod-bot",
     "status": "up",
-    "uptime": "25.26%",
+    "uptime": "25.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.36%",
+    "uptimeYear": "25.45%",
     "time": 50,
-    "timeDay": 31,
-    "timeWeek": 36,
+    "timeDay": 20,
+    "timeWeek": 35,
     "timeMonth": 28,
     "timeYear": 50,
     "dailyMinutesDown": {
@@ -443,8 +442,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
-      "2024-11-14": 1440,
-      "2024-11-13": 1440
+      "2024-11-14": 1440
     }
   },
   {
@@ -459,10 +457,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 1690,
-    "timeDay": 1171,
-    "timeWeek": 1177,
-    "timeMonth": 1374,
-    "timeYear": 1835,
+    "timeDay": 987,
+    "timeWeek": 1150,
+    "timeMonth": 1366,
+    "timeYear": 1834,
     "dailyMinutesDown": {
       "2025-09-09": 24,
       "2025-09-08": 17,
