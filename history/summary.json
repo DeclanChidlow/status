@@ -27,17 +27,17 @@
     "url": "https://fedi.vale.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/fedi.vale.rocks.ico",
     "slug": "fedi",
-    "status": "up",
+    "status": "down",
     "uptime": "96.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1354,
-    "timeDay": 799,
-    "timeWeek": 823,
-    "timeMonth": 875,
-    "timeYear": 1411,
+    "time": 1359,
+    "timeDay": 2010,
+    "timeWeek": 1122,
+    "timeMonth": 950,
+    "timeYear": 1416,
     "dailyMinutesDown": {
       "2025-07-21": 17,
       "2025-08-23": 120,
@@ -48,7 +48,8 @@
       "2025-09-09": 18,
       "2025-11-18": 82,
       "2025-11-20": 28,
-      "2026-04-26": 131
+      "2026-04-26": 131,
+      "2026-07-16": 0
     }
   },
   {
@@ -78,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/automod.vale.rocks.ico",
     "slug": "auto-mod-bot",
     "status": "up",
-    "uptime": "55.22%",
+    "uptime": "55.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.55%",
+    "uptimeYear": "92.58%",
     "time": 46,
     "timeDay": 525,
     "timeWeek": 333,
@@ -124,17 +125,17 @@
     "url": "https://jellyfin.vale.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.vale.rocks.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "96.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1791,
-    "timeDay": 1008,
-    "timeWeek": 1700,
-    "timeMonth": 1721,
-    "timeYear": 1915,
+    "time": 1794,
+    "timeDay": 2001,
+    "timeWeek": 1861,
+    "timeMonth": 1762,
+    "timeYear": 1917,
     "dailyMinutesDown": {
       "2025-08-23": 120,
       "2025-08-22": 435,
@@ -145,7 +146,8 @@
       "2025-09-09": 24,
       "2025-11-18": 122,
       "2026-04-10": 56,
-      "2026-04-26": 130
+      "2026-04-26": 130,
+      "2026-07-16": 0
     }
   }
 ]
