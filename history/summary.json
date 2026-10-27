@@ -71,7 +71,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/automod.vale.rocks.ico",
     "slug": "auto-mod-bot",
     "status": "up",
-    "uptime": "61.67%",
+    "uptime": "61.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -90,17 +90,17 @@
     "url": "https://jellyfin.vale.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.vale.rocks.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "96.19%",
-    "uptimeDay": "95.39%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.39%",
-    "time": 1864,
-    "timeDay": 347,
-    "timeWeek": 1298,
-    "timeMonth": 1661,
-    "timeYear": 1476,
+    "status": "up",
+    "uptime": "96.18%",
+    "uptimeDay": "83.94%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.36%",
+    "time": 1865,
+    "timeDay": 1016,
+    "timeWeek": 1346,
+    "timeMonth": 1662,
+    "timeYear": 1477,
     "dailyMinutesDown": {
       "2025-11-18": 122,
       "2026-04-10": 56,
@@ -110,7 +110,7 @@
       "2026-09-18": 355,
       "2026-09-17": 1440,
       "2026-09-16": 567,
-      "2026-10-27": 66
+      "2026-10-27": 231
     }
   }
 ]
