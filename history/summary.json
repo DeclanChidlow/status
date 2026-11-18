@@ -10,13 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 220,
-    "timeDay": 70,
-    "timeWeek": 124,
-    "timeMonth": 157,
-    "timeYear": 201,
+    "time": 219,
+    "timeDay": 225,
+    "timeWeek": 144,
+    "timeMonth": 162,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-11-18": 150,
       "2026-01-28": 29
     }
   },
@@ -31,13 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1254,
-    "timeDay": 1031,
-    "timeWeek": 831,
-    "timeMonth": 797,
-    "timeYear": 844,
+    "time": 1253,
+    "timeDay": 337,
+    "timeWeek": 778,
+    "timeMonth": 784,
+    "timeYear": 841,
     "dailyMinutesDown": {
-      "2025-11-18": 82,
       "2025-11-20": 28,
       "2026-04-26": 131,
       "2026-07-16": 138
@@ -49,19 +47,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/automod.vale.rocks.ico",
     "slug": "auto-mod-website",
     "status": "up",
-    "uptime": "88.26%",
+    "uptime": "88.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 207,
-    "timeDay": 159,
-    "timeWeek": 177,
+    "timeDay": 256,
+    "timeWeek": 193,
     "timeMonth": 242,
     "timeYear": 193,
-    "dailyMinutesDown": {
-      "2025-11-18": 150
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AutoMod Bot",
@@ -69,19 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/automod.vale.rocks.ico",
     "slug": "auto-mod-bot",
     "status": "up",
-    "uptime": "62.77%",
+    "uptime": "62.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 176,
-    "timeDay": 694,
-    "timeWeek": 626,
-    "timeMonth": 606,
-    "timeYear": 224,
-    "dailyMinutesDown": {
-      "2025-11-18": 150
-    }
+    "time": 177,
+    "timeDay": 456,
+    "timeWeek": 600,
+    "timeMonth": 602,
+    "timeYear": 225,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin",
@@ -94,13 +88,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.36%",
-    "time": 1884,
-    "timeDay": 1785,
-    "timeWeek": 1736,
-    "timeMonth": 1576,
-    "timeYear": 1493,
+    "time": 1886,
+    "timeDay": 2134,
+    "timeWeek": 1791,
+    "timeMonth": 1590,
+    "timeYear": 1496,
     "dailyMinutesDown": {
-      "2025-11-18": 122,
       "2026-04-10": 56,
       "2026-04-26": 130,
       "2026-07-16": 138,
